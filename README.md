@@ -2,7 +2,7 @@
 
 # Hey, I'm Monish MR 👋
 
-### AI & Backend Developer · Machine Learning · Agentic AI · Full-Stack Engineering
+### AI & Backend Developer · Machine Learning · Agentic AI Engineering
 
 **I build intelligent systems that connect AI models, APIs, data, and real-world workflows.**
 
