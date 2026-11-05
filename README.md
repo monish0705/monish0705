@@ -1,83 +1,129 @@
 <div align="center">
 
-# Hi, I'm Monish MR 👋
+# MONISH MR
 
-### AI & Backend Developer | Building useful, human-friendly products
+### I build AI products for problems people actually have.
 
-I turn ideas into practical applications by combining **AI, APIs, data, and clear user experiences**.
+**AI engineering · Product thinking · Founder mindset**
 
-[![GitHub](https://img.shields.io/badge/GitHub-monish0705-181717?style=flat-square&logo=github)](https://github.com/monish0705)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/monishraj-tearlake/)
-[![ClinicFlow](https://img.shields.io/badge/ClinicFlow-Project-2E8B75?style=flat-square&logo=googlechrome&logoColor=white)](https://clinicflow.sbs)
+I like the space between a promising model and a product someone can trust: understanding the problem, designing the workflow, building the system, and making the experience feel simple.
+
+[LinkedIn](https://www.linkedin.com/in/monishraj-tearlake/) &nbsp;·&nbsp; [Projects](https://github.com/monish0705?tab=repositories) &nbsp;·&nbsp; [ClinicFlow](https://clinicflow.sbs)
 
 </div>
 
 ---
 
-## About me
+## The short version
 
-I'm a computer science student who enjoys building software that solves real problems. My work spans **AI-powered applications, backend services, and frontend interfaces**—from an appointment assistant for clinics to tools for creating campaigns and practicing technical interviews.
+I'm a computer science student and builder drawn to **applied AI, full-stack product development, and early-stage ideas**. I build across the stack—from React interfaces and APIs to retrieval, automation, and the data behind them.
 
-- 💻 I build with **Python, JavaScript, React, and FastAPI**
-- 🤖 I'm interested in **AI, machine learning, and intelligent automation**
-- 🎨 I care about making software **easy to use as well as useful**
-- 🤝 I'm open to collaborating on thoughtful software projects
+My north star: **make powerful technology feel clear, useful, and human.**
 
-## Featured projects
+> **Build the thing. Make it useful. Earn the trust.**
+
+## Products in progress & practice
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☕ IntentLocked</h3>
-      <p>Create café marketing campaigns while keeping the owner in control. Review campaign details, generate multilingual content, and prepare posters and other assets.</p>
-      <p><strong>Built with:</strong> Python · React · Next.js · FastAPI</p>
-      <a href="https://github.com/monish0705/market_campaign">View project →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Screenwise</h3>
-      <p>A resume-aware interview practice app. Upload a resume, choose a role, answer relevant questions, and review the interview with supporting source passages.</p>
-      <p><strong>Built with:</strong> React · Vite · FastAPI · SQLite · Qdrant</p>
-      <a href="https://github.com/monish0705/AI-Document-Intelligence-">View project →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Clinic Automation</h3>
-      <p>A WhatsApp assistant that helps patients book, check, cancel, and reschedule clinic appointments, with reminders and common question support.</p>
-      <p><strong>Built with:</strong> Python · FastAPI · Twilio · PostgreSQL</p>
-      <a href="https://github.com/monish0705/clinic_automation">View project →</a> · <a href="https://clinicflow.sbs">Visit ClinicFlow →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 RoboticsAcademy</h3>
-      <p>Explore the RoboticsAcademy v6.0.8 release.</p>
-      <p><strong>Project:</strong> JdeRobot RoboticsAcademy</p>
-      <a href="https://github.com/JdeRobot/RoboticsAcademy/releases/tag/v6.0.8">View release →</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / IntentLocked
+**AI-assisted campaigns. Human-approved facts.**
+
+A campaign workspace for café owners: shape a brief into multilingual copy and creative assets, while keeping the owner in control of the details and final approval.
+
+**Product lens** · Generative AI · Human-in-the-loop workflows
+
+[Explore IntentLocked →](https://github.com/monish0705/market_campaign)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / Screenwise
+**Interview practice grounded in your own experience.**
+
+Upload a resume, choose a role, and practice with questions informed by your background and knowledge sources. Review the conversation and see the passages behind the questions.
+
+**Product lens** · Retrieval-augmented generation · React + FastAPI
+
+[Explore Screenwise →](https://github.com/monish0705/AI-Document-Intelligence-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / ClinicFlow
+**Less friction between a patient and an appointment.**
+
+A WhatsApp-based clinic assistant for appointment booking, changes, availability, FAQs, and reminders—bringing conversational AI into a practical service workflow.
+
+**Product lens** · AI automation · APIs · Messaging integrations
+
+[Explore the project →](https://github.com/monish0705/clinic_automation) · [Visit ClinicFlow →](https://clinicflow.sbs)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / RoboticsAcademy
+**Learning by building in robotics.**
+
+A robotics project reference from my resume: the RoboticsAcademy **v6.0.8** release.
+
+[View the release →](https://github.com/JdeRobot/RoboticsAcademy/releases/tag/v6.0.8)
+
+</td>
+</tr>
 </table>
 
-## Skills & tools
+## How I think about building
 
-| Area | Tools and technologies |
+```text
+                  START WITH THE HUMAN
+                           ↓
+              Find the real problem, not the trend
+                           ↓
+                 Design the smallest useful flow
+                           ↓
+             Add AI where it creates real leverage
+                           ↓
+             Keep the system observable and honest
+                           ↓
+                Learn from users. Iterate. Ship.
+```
+
+AI is a capability—not the product by itself. I care about the whole experience: **what goes in, what the system decides, what the user sees, and how they stay in control.**
+
+## My current toolkit
+
+| Building layer | Tools I use |
 | --- | --- |
-| **Languages** | Python · JavaScript · SQL |
-| **Frontend** | React · HTML · CSS · Tailwind CSS · Vite · Next.js |
-| **Backend** | FastAPI · Node.js · Express · REST APIs |
-| **AI & data** | OpenAI APIs · scikit-learn · SQLite · PostgreSQL · Qdrant |
-| **Tools** | Git · GitHub · Docker |
+| **Interfaces** | React · JavaScript · HTML · CSS · Tailwind CSS · Vite · Next.js |
+| **Services & APIs** | Python · FastAPI · Node.js · Express · REST |
+| **Applied AI** | OpenAI APIs · prompt design · retrieval workflows · scikit-learn |
+| **Data & delivery** | PostgreSQL · SQLite · Qdrant · Git · GitHub · Docker |
 
-## What I enjoy building
+## The founder mindset
 
-- Interfaces that make complex tools feel simple
-- AI features that are useful, understandable, and grounded in real workflows
-- Reliable APIs and integrations that connect products together
+I'm interested in the earliest, most uncertain part of building: **finding a real need, testing an idea quickly, and turning what works into a product people come back to.** I bring curiosity, a builder's bias, and respect for the details that make a product dependable.
 
-## Let's connect
+Not claiming to have all the answers. Very willing to build, test, learn, and improve.
 
-Have an idea or want to build something together? Find me on [GitHub](https://github.com/monish0705) or [LinkedIn](https://www.linkedin.com/in/monishraj-tearlake/).
+## What I'm exploring
+
+- **Useful AI:** grounded, context-aware experiences—not AI for its own sake
+- **Product engineering:** thoughtful UX backed by robust systems
+- **Early-stage building:** prototypes, feedback loops, and ideas with room to grow
+
+## Let's build something meaningful
+
+If you're working on an ambitious product, practical AI, or an early-stage idea, I'd love to hear what you're building.
 
 <div align="center">
 
-*Thanks for stopping by — feel free to explore my projects!*
+[Say hello on LinkedIn](https://www.linkedin.com/in/monishraj-tearlake/) &nbsp;·&nbsp; [Explore my GitHub](https://github.com/monish0705?tab=repositories)
+
+*Curious by default. Product-minded by design. Always building.*
 
 </div>
