@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hey, I'm Monish MR 👋
+# Hi, I'm Monish MR 👋
 
-### AI & Backend Developer · Machine Learning · Agentic AI Engineering
+### AI & Backend Developer | Building useful, human-friendly products
 
-**I build intelligent systems that connect AI models, APIs, data, and real-world workflows.**
+I turn ideas into practical applications by combining **AI, APIs, data, and clear user experiences**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-monish0705-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monish0705)
-[![Website](https://img.shields.io/badge/ClinicFlow-Visit_Project-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://clinicflow.sbs)
-[![Profile Views](https://komarev.com/ghpvc/?username=monish0705&style=for-the-badge&color=0e75b6)](https://github.com/monish0705)
+[![GitHub](https://img.shields.io/badge/GitHub-monish0705-181717?style=flat-square&logo=github)](https://github.com/monish0705)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/monishraj-tearlake/)
+[![ClinicFlow](https://img.shields.io/badge/ClinicFlow-Project-2E8B75?style=flat-square&logo=googlechrome&logoColor=white)](https://clinicflow.sbs)
 
 </div>
 
@@ -16,95 +16,68 @@
 
 ## About me
 
-I'm a Computer Science student and developer interested in **applied AI, machine learning, backend engineering, and startup products**. I enjoy taking a problem from idea to working architecture: designing APIs, connecting services, building data pipelines, and turning AI capabilities into usable products.
+I'm a computer science student who enjoys building software that solves real problems. My work spans **AI-powered applications, backend services, and frontend interfaces**—from an appointment assistant for clinics to tools for creating campaigns and practicing technical interviews.
 
-- 🔭 **Building:** practical AI applications and data-driven backend systems
-- 🧠 **Exploring next:** LLM fine-tuning, retrieval-augmented generation (RAG), and agentic workflows
-- ⚙️ **Interested in:** intelligent automation, scalable APIs, real-time systems, and MLOps
-- 🚀 **Long-term goal:** build impactful software products and launch a technology startup
-- 🤝 **Open to:** internships, software/AI engineering opportunities, and meaningful collaborations
+- 💻 I build with **Python, JavaScript, React, and FastAPI**
+- 🤖 I'm interested in **AI, machine learning, and intelligent automation**
+- 🎨 I care about making software **easy to use as well as useful**
+- 🤝 I'm open to collaborating on thoughtful software projects
 
-> I care about the engineering behind the demo: reliability, clear architecture, thoughtful trade-offs, and software that solves an actual problem.
+## Featured projects
 
-## Selected projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ IntentLocked</h3>
+      <p>Create café marketing campaigns while keeping the owner in control. Review campaign details, generate multilingual content, and prepare posters and other assets.</p>
+      <p><strong>Built with:</strong> Python · React · Next.js · FastAPI</p>
+      <a href="https://github.com/monish0705/market_campaign">View project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Screenwise</h3>
+      <p>A resume-aware interview practice app. Upload a resume, choose a role, answer relevant questions, and review the interview with supporting source passages.</p>
+      <p><strong>Built with:</strong> React · Vite · FastAPI · SQLite · Qdrant</p>
+      <a href="https://github.com/monish0705/AI-Document-Intelligence-">View project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Clinic Automation</h3>
+      <p>A WhatsApp assistant that helps patients book, check, cancel, and reschedule clinic appointments, with reminders and common question support.</p>
+      <p><strong>Built with:</strong> Python · FastAPI · Twilio · PostgreSQL</p>
+      <a href="https://github.com/monish0705/clinic_automation">View project →</a> · <a href="https://clinicflow.sbs">Visit ClinicFlow →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 RoboticsAcademy</h3>
+      <p>Explore the RoboticsAcademy v6.0.8 release.</p>
+      <p><strong>Project:</strong> JdeRobot RoboticsAcademy</p>
+      <a href="https://github.com/JdeRobot/RoboticsAcademy/releases/tag/v6.0.8">View release →</a>
+    </td>
+  </tr>
+</table>
 
-### 🏥 [Clinic Automation — AI-Powered WhatsApp Appointment Assistant](https://github.com/monish0705/clinic_automation)
+## Skills & tools
 
-A conversational clinic-booking backend that helps patients request, check, cancel, and reschedule appointments through WhatsApp. It connects natural-language intent extraction with appointment logic, Google Sheets, and automated reminders.
-
-**Highlights:** FastAPI webhook · Twilio WhatsApp integration · LLM-based intent extraction · conversational booking workflows · Google Sheets integration · scheduled reminders
-
-**Stack:** `Python` `FastAPI` `OpenAI API` `Twilio` `Google Sheets` `APScheduler`
-
-[Explore the code →](https://github.com/monish0705/clinic_automation) · [Project website →](https://clinicflow.sbs)
-
-### 🛡️ [StreamGuard — Real-Time Fraud & Anomaly Detection](https://github.com/monish0705/ML-stream_guard) · *In development*
-
-An event-driven machine-learning project designed to identify suspicious transactions as events arrive. Its architecture connects streaming ingestion, feature processing, anomaly scoring, analyst feedback, and model retraining with deployment gates.
-
-**Current public status:** initial architecture, repository structure, database schema, and configuration; the streaming-to-dashboard pipeline and model lifecycle features are planned/in progress.
-
-**Architecture / planned stack:** `Apache Kafka` `Python` `FastAPI` `scikit-learn` `PostgreSQL` `React` `MLflow` `Prometheus` `Grafana` `Docker`
-
-[Explore the roadmap and code →](https://github.com/monish0705/ML-stream_guard)
-
-## Technical toolbox
-
-| Area | Technologies & concepts |
+| Area | Tools and technologies |
 | --- | --- |
-| **Languages** | Python, JavaScript, SQL |
-| **Backend & APIs** | FastAPI, Node.js, Express, REST APIs, webhooks |
-| **Frontend** | React, HTML, CSS, Tailwind CSS |
-| **AI & Machine Learning** | LLM API integration, prompt engineering, intent extraction, scikit-learn, data processing |
-| **Data & infrastructure** | PostgreSQL, Google Sheets integrations, Git, GitHub, Docker fundamentals |
-| **Currently expanding** | RAG, vector search, LLM fine-tuning, MLflow, Kafka, AI agent orchestration |
+| **Languages** | Python · JavaScript · SQL |
+| **Frontend** | React · HTML · CSS · Tailwind CSS · Vite · Next.js |
+| **Backend** | FastAPI · Node.js · Express · REST APIs |
+| **AI & data** | OpenAI APIs · scikit-learn · SQLite · PostgreSQL · Qdrant |
+| **Tools** | Git · GitHub · Docker |
 
-*Technologies under “Currently expanding” are learning/building priorities, not claims of production expertise.*
+## What I enjoy building
 
-## What's next
-
-| Initiative | What I want to build | Status |
-| --- | --- | --- |
-| **LLM Fine-Tuning Lab** | Reproducible experiments with dataset preparation, parameter-efficient fine-tuning, evaluation, and inference | 🔬 Planned |
-| **Production-Style RAG System** | Document ingestion, embeddings, retrieval, grounded responses, source citations, and evaluation | 🔬 Planned |
-| **Agentic AI Applications** | Agents that reason across tools and APIs, coordinate workflows, and verify outcomes | 🧪 Exploring |
-| **A larger startup venture** | A new product addressing a meaningful real-world problem — details to be shared when ready | 🔒 To be announced |
-
-## How I approach building
-
-```text
-Understand the problem
-        ↓
-Design the architecture & data flow
-        ↓
-Build APIs, workflows & interfaces
-        ↓
-Test edge cases and measure behavior
-        ↓
-Iterate, document, and improve
-```
-
-## GitHub activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish0705&layout=compact&hide_border=true&theme=transparent" alt="Most used languages on public GitHub repositories" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=monish0705&theme=transparent&hide_border=true" alt="GitHub contribution streak" height="165" />
-
-</div>
-
-> Public GitHub charts are optional visualizations and may depend on third-party services. Repositories and code are the best evidence of my work.
+- Interfaces that make complex tools feel simple
+- AI features that are useful, understandable, and grounded in real workflows
+- Reliable APIs and integrations that connect products together
 
 ## Let's connect
 
-I'm interested in collaborating on **AI/ML, backend systems, developer tools, and ambitious product ideas**. If something here aligns with what you're building, feel free to reach out through GitHub.
+Have an idea or want to build something together? Find me on [GitHub](https://github.com/monish0705) or [LinkedIn](https://www.linkedin.com/in/monishraj-tearlake/).
 
 <div align="center">
 
-**[Explore my repositories](https://github.com/monish0705?tab=repositories) · [Follow my work](https://github.com/monish0705)**
-
-*Building, learning, and shipping — one meaningful project at a time.*
+*Thanks for stopping by — feel free to explore my projects!*
 
 </div>
-
