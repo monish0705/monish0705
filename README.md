@@ -58,7 +58,7 @@ I'm a computer science student who enjoys turning real problems into useful soft
 
 | Focus | Technologies |
 | --- | --- |
-| **Languages** | Python · JavaScript · SQL |
+| **Languages** | Python · JavaScript · C++ · SQL |
 | **Frontend** | React · HTML · CSS · Tailwind CSS · Vite · Next.js |
 | **Backend** | FastAPI · Node.js · Express · REST APIs |
 | **AI & data** | OpenAI APIs · scikit-learn · SQLite · PostgreSQL · Qdrant |
