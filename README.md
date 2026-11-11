@@ -102,12 +102,17 @@ I'm a computer science student who builds software that solves real problems. My
 
 ---
 
-## 📊 GitHub stats
+## 📊 Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=monish0705&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monish0705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages"/>
+![Followers](https://img.shields.io/github/followers/monish0705?style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/monish0705&query=$.public_repos&label=Public%20repos&style=for-the-badge&color=7ee0c3&labelColor=0d1117)
+![Last commit](https://img.shields.io/github/last-commit/monish0705/clinic_automation?style=for-the-badge&label=ClinicFlow%20last%20commit&color=f0c05a&labelColor=0d1117)
+
+![Top language](https://img.shields.io/github/languages/top/monish0705/clinic_automation?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
+![Screenwise](https://img.shields.io/github/last-commit/monish0705/AI-Document-Intelligence-?style=flat-square&label=Screenwise&labelColor=0d1117)
+![IntentLocked](https://img.shields.io/github/last-commit/monish0705/market_campaign?style=flat-square&label=IntentLocked&labelColor=0d1117)
 
 </div>
 
